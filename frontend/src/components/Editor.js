@@ -120,7 +120,7 @@ class Editor extends React.Component {
                     <input
                       className="form-control"
                       type="text"
-                      placeholder="Image url"
+                      placeholder="D:\coding\wilco\Anythink-Market-w1xo7qyz\frontend\public\placeholder.png"
                       value={this.props.image}
                       onChange={this.changeImage}
                     />
